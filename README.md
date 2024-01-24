@@ -7,11 +7,23 @@ Soy un Data Science de 23 años orientado hacia la rama de Data Engineering. Mi 
 
 ## ¿ Que hago ?
 
-Actualmente me encuentro haciendo proyectos para avanzar en el mundo de la Data y asi estar mas capacitado para la resolucion de problemas y analisis.
+Actualmente me encuentro haciendo proyectos para avanzar en el mundo de la Data y asi estar mas capacitado para la resolucion de problemas y analisis. Ademas estoy terminando un Bootcamp de Data Science.
 
 ## Objetivos
 
-Mis objetivos actuales son
+Mis objetivos actuales son seguir desarrollando proyectos para aprender sobre nuevas herramientas o mejorar aun mas mis conocimientos en el area de data, Es muy interesante como hay informacion disponible en internet de diferentes conjuntos de datos, con estos quiero realizar nuevas soluciones mas optimas para diferentes problematicas. 
+
+## Tecnologias
+
+-Python
+-MySQL
+-Hive
+-
+-
+-
+-
+-
+-
 
 
 
