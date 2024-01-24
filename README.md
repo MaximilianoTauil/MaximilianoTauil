@@ -1,11 +1,17 @@
 
 # Hola! Mi nombre es Maximiliano Tauil
 
-## Quien soy ?
+## ¿ Quien soy ?
 
 Soy un Data Science de 23 años orientado hacia la rama de Data Engineering. Mi primer lenguaje de programacion fue Visual Basic en POO(Programacion Orientada a Objetos), luego descubri las bases de datos relacionales con SQL Server. Asi es como conoci mi gusto por los datos.
 
+## ¿ Que hago ?
 
+Actualmente me encuentro haciendo proyectos para avanzar en el mundo de la Data y asi estar mas capacitado para la resolucion de problemas y analisis.
+
+## Objetivos
+
+Mis objetivos actuales son
 
 
 
