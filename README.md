@@ -15,26 +15,16 @@ Mis objetivos actuales son seguir desarrollando proyectos para aprender sobre nu
 
 ## Tecnologias
 
--Python
+-Python : Pandas, Numpy, Scickit Learm, NLP, Follium.
 -MySQL
 -Hive
--
--
--
--
--
--
+-Visual Studio Code
+-Power BI
+-Tableau
+-FastAPI
+-Render
+-Github
 
-
-
-
-
-
-
-
-
-
-
-
+## Contacto
 [![Logo de LinkedIn](https://camo.githubusercontent.com/7cf69b0c765c12d5906048027723e6fea01f1ee2f89b9a5fd90bcb8e20c6ed83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d626c7565)](https://www.linkedin.com/in/maximiliano-tauil-3a0010252/)
 
